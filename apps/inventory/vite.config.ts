@@ -24,6 +24,7 @@ export default defineConfig({
   //  plugins: [ nxViteTsPaths() ],
   // },
 
+
   build: {
     outDir: '../../dist/apps/inventory',
     emptyOutDir: true,
