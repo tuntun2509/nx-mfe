@@ -25,7 +25,7 @@ export default defineConfig({
   // },
 
   build: {
-    outDir: './build/react-store',
+    outDir: '../../dist/apps/react-store',
     emptyOutDir: true,
     reportCompressedSize: true,
     commonjsOptions: {
